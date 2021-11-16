@@ -28,5 +28,5 @@ on Arch Linux after installing `mecab-ipadic` from the AUR.
 ## Dictionaries 
 Use yomi2star.sh to convert yomichan zip files to
 stardict format. This depends on 
-+ yomi2tab.py written by [https://github.com/olety](olety) which depends on pandas.
++ yomi2tab.py written by [olety](https://github.com/olety) which depends on pandas.
 + pyglossary
